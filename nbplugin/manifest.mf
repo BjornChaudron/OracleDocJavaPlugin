@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: nl.hu.bjornchaudron
+OpenIDE-Module-Localizing-Bundle: nl/hu/bjornchaudron/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
